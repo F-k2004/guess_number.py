@@ -1,1 +1,1 @@
-python gues_number.py
+python guess_number.py
